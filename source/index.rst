@@ -17,10 +17,11 @@ Sample Resume with Sphinx
    :maxdepth: 2
 
    profile
-   --------
    experience
    skills
    Education
+   -BA University of Massachusetts, Amherst
+   -Information Technology Certificate Salem State University, Salem MA
 
 
 .. add new files to list above to include them in toc
