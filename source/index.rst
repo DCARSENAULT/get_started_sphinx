@@ -5,11 +5,10 @@ Sample Resume with Sphinx
 .. image:: images/github-photo.png
          :name: my picture
          :width: 30%
-         
-************************         
+        
 Diane Arsenault
 Help Desk Technician III
-************************
+
 
 
 |Contents|
