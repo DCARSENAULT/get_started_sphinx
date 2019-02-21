@@ -6,8 +6,8 @@ Sample Resume with Sphinx
          :name: my picture
          :width: 30%
         
-Diane Arsenault
-Help Desk Technician III
+**Diane Arsenault**
+**Help Desk Technician III**
 
 
 
@@ -17,9 +17,10 @@ Help Desk Technician III
    :maxdepth: 2
 
    profile
+   --------
    experience
    skills
-   education
+   Education
 
 
 .. add new files to list above to include them in toc
