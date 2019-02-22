@@ -25,7 +25,7 @@ Help Desk Specialist III
    
    | Triaged database problems for NMFS personnel, Joint law enforcement agents and fishing industry constituents. 
    
-   | Maintain equipment inventory, actually record asset details in Google Spreadsheets. 
+   | Maintain equipment inventory, accurately record asset details in Google Spreadsheets. 
    
    | Generate Asset Hand receipts for yearly inventory and research asset history using Sunflower inventory system.
    
