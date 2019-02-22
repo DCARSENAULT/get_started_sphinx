@@ -11,7 +11,7 @@ Help Desk Specialist III
   
    | Provide daily technical support for 250+ federal end users via phone, iSupport ticketing system, desk-side visits and remote assistance.
    
-   | Assist fishing industry with using a GARFO mobile app (NOAA eVTR) to electronically delivery catch report.
+   | Assist fishing industry with using NOAA eVTR to electronically delivery catch report.
    
    | Analyze problems, gathered pertinent data, and provide solutions using technical knowledge of various operating systems, Google Apps for governments, Microsoft Office, and Adobe applications.
    
@@ -24,7 +24,11 @@ Help Desk Specialist III
    | Function as a liaison between end users and data system architects and administrators.
    
    | Triaged database problems for NMFS personnel, Joint law enforcement agents and fishing industry constituents. 
-
+   
+   | Maintain equipment inventory, actually record asset details in Google Spreadsheets. 
+   
+   | Generate Asset Hand receipts for yearly inventory, research asset history using Sunflower inventory system.
+   
 
 Technical Specialist 
 ************************
