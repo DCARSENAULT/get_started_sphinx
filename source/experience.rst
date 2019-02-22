@@ -42,31 +42,44 @@ Technical Specialist
    
    | Created and maintained organizational system in IT set room and server room. Created server room and network map.
         
-Help Desk Specialist III 
+Help Desk Technician
 ************************    
-**2010 - 2013: Computer System Analyst for the National Oceanic and Atmospheric Administration Fisheries GARFO in Gloucester, MA working for Integrated Statistics**
-    IT technical analyst and support for over 250 government employees at the Greater Atlantic Regional Office.  
-    Provided computer hardware and software support to regional fisheries personnel in secure government database environment. 
-    JIRA administrator for issue tracking system used by GARFO compliance personnel for monitoring vessels and reporting irregularities. Configured projects, managed end users accounts and permission sets.
-    Administered McAfee endpoint encryption console, antivirus software, CISCO Call Manager and Unity Voicemail. IT support for Oracle database querying tools: SAS, Pl/SQL, SQL Developer and Discoverer.
-    Awarded by the U.S. Department of Commerce for excellence in 2012 for end-user satisfaction.
+**2010 - 2013: HelpDesk Technician for the National Oceanic and Atmospheric Administration Fisheries GARFO in Gloucester, MA working for Integrated Statistics**
+   |  IT technical analyst and support for over 250 government employees at the Greater Atlantic Regional Office.
     
-Help Desk Specialist III 
+   | Provided computer hardware and software support to regional fisheries personnel in secure government database environment. 
+    
+   | JIRA administrator for issue tracking system used by GARFO compliance personnel for monitoring vessels and reporting irregularities. Configured projects, managed end users accounts and permission sets.
+    
+   | Administered McAfee endpoint encryption console, antivirus software, CISCO Call Manager and Unity Voicemail. IT support for Oracle database querying tools: SAS, Pl/SQL, SQL Developer and Discoverer.
+    
+   | Awarded by the U.S. Department of Commerce for excellence in 2012 for end-user satisfaction.
+    
+Catering Associate 
 ************************
 **2006 - 2010 Assistant to the Social Events Director- Northeastern University, Henderson House**
-    Assistant manager and catering associate in high profile high-pressure special events environment providing top-level customer service to corporate and social event clients.  Participated in every aspect of event planning from inception to event roll out. 
-    Responded to sales and catering inquiries, gave client site tours.
-    Performed bookkeeping and administrative duties using standard office procedures, accurately maintained liquor inventory. 
-    Directed catered events ranging from small meetings to high-end weddings with complex event details.
-    Attended trade shows promoting and marketing Henderson House conference and special events.
+
+   |  Assistant manager and catering associate in high profile high-pressure special events environment providing top-level customer service to corporate and social event clients.  Participated in every aspect of event planning from inception to event roll out. 
     
-Help Desk Specialist III 
+   | Responded to sales and catering inquiries, gave client site tours. 
+     
+   | Performed bookkeeping and administrative duties using standard office procedures, accurately maintained liquor inventory. 
+    
+   | Directed catered events ranging from small meetings to high-end weddings with complex event details.
+    
+   | Attended trade shows promoting and marketing Henderson House conference and special events.
+    
+Office Personnel
 ************************
-**1986 - 1991 Assistant Manager, Northeastern University, Faculty Center**
-    Provided exceptional level of customer service related to university business and social events
-    Maintained office files and accounts; scheduled facilities and resources using Microsoft Office suite
-    Arranged and set up vendor recruiting sessions, technical AV, catering services and resources for meetings
-    Handled high volume of phone calls from vendors and clients.
+**1991 -2000 Northeastern University, Faculty Center**
+
+   |  Provided exceptional level of customer service related to university business and social events.
+   
+   |  Maintained office files and accounts; scheduled facilities and resources using Microsoft Office suite.
+   
+   |  Arranged and set up vendor recruiting sessions, technical AV, catering services and resources for meetings.
+   
+   | Handled high volume of phone calls from vendors and clients.
 
 
 
