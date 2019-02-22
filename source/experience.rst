@@ -11,7 +11,7 @@ Help Desk Specialist III
   
    | Provide daily technical support for 250+ federal end users via phone, iSupport ticketing system, desk-side visits and remote assistance.
    
-   | Assist fishing community with installing and using an in-house app (NOAA eVTR) to electronically delivery catch report.
+   | Assist fishing industry with using a GARFO mobile app (NOAA eVTR) to electronically delivery catch report.
    
    | Analyze problems, gathered pertinent data, and provide solutions using technical knowledge of various operating systems, Google Apps for governments, Microsoft Office, and Adobe applications.
    
@@ -19,19 +19,28 @@ Help Desk Specialist III
    
    | Manage facility CISCO ip phone and voicemail systems using Cisco Call Manager and Unity Voice systems.
    
-   | Intake multimedia events using Google Calendar, and WebEx scheduling.
-   
-   | Provide customer service, equipment and webinar set.
+   | Intake multimedia events using Google Calendar, and WebEx scheduling. Provide customer service, equipment and webinar set
    
    | Function as a liaison between end users and data system architects and administrators.
    
    | Triaged database problems for NMFS personnel, Joint law enforcement agents and fishing industry constituents. 
 
 
-Help Desk Specialist III 
+Technical Specialist 
 ************************
 **2013-2015:Technical Support for Ipswich Public Schools in Ipswich, MA** 
-        Technical Team member for 1.5 Million dollar large scale IT infrastructure upgrade for the Ipswich Public School System. Assisted with all aspects of modernizing, building and configuring a new managed network including planning, and overseeing installation and implementation of the IT infrastructure improvement plan.
+
+   |  Technical Team member for 1.5 Million dollar large scale IT infrastructure upgrade for the Ipswich Public School System. Assisted with all aspects of modernizing, building and configuring a new managed network including planning, and overseeing installation and implementation of the IT infrastructure improvement plan.
+   
+   | Data migration coordinator for district cut over from MMS SIS to Aspen SIS.
+   
+   | Aspen PreK-12 Student Information System Administrator.
+   
+   | Created and maintained district inventory database where none existed.  Added items to database, assigned numbers, generated barcodes and used handheld barcode reader to add to database.
+   
+   | Provided IT Helpdesk support to 2000 end users.
+   
+   | Created and maintained organizational system in IT set room and server room. Created server room and network map.
         
 Help Desk Specialist III 
 ************************    
