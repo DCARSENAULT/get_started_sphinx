@@ -1,8 +1,8 @@
-Test Resume with Sphinx
-###############################
 
 Diane Arsenault
 Help Desk Technician III
+###############################
+
 
 
 .. image:: images/CircuitBoard.jpg
