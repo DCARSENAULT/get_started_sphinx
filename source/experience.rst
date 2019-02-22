@@ -7,7 +7,7 @@ Experience
 Help Desk Specialist III 
 ************************
 
-*2015-Present:Federal Contractor providing technical support for the Department of Commerce/National Marine     Fisheries Service for Lynker Technologies*
+**2015-Present:Federal Contractor providing technical support for the Department of Commerce/National Marine Fisheries Service for Lynker Technologies**
   
    | Provide daily technical support for 250+ federal end users via phone, iSupport ticketing system, desk-side visits and remote assistance.
    
@@ -57,7 +57,7 @@ Help Desk Technician
     
 Catering Associate 
 ************************
-**2006 - 2010 Assistant to the Social Events Director- Northeastern University, Henderson House**
+**2006 - 2010 Chartwells/Compass Northeastern University, Henderson House**
 
    |  Assistant manager and catering associate in high profile high-pressure special events environment providing top-level customer service to corporate and social event clients.  Participated in every aspect of event planning from inception to event roll out. 
     
@@ -71,7 +71,7 @@ Catering Associate
     
 Office Personnel
 ************************
-**1991 -2000 Northeastern University, Faculty Center**
+**1991 -2000 DAKA/Chartwells Northeastern University, Faculty Center**
 
    |  Provided exceptional level of customer service related to university business and social events.
    
