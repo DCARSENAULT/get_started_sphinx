@@ -17,9 +17,9 @@ Help Desk Technician III
 .. toctree::
    :maxdepth: 2
 
-   Profile:
-   Experience:
-   Education:
+   Profile
+   Experience
+   Education
    
    
   
