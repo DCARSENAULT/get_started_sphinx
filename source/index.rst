@@ -1,7 +1,9 @@
 
-Diane Arsenault  Help Desk Technician III
-#########################################
+Diane Arsenault 
+###############
 
+Help Desk Technician III
+************************
 
 
 .. image:: images/CircuitBoard.jpg
