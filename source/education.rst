@@ -3,20 +3,20 @@
 Education 
 ############
 
-College/University
+University of Massachusetts
+***************************
+
+*BA BioAnthropology*
+
+Salem State University
 **********************
 
-*Degree*
+*Certificate in Information Technology*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+Middlesex Community College
+***************************
 
-
-College/University
-**********************
-
-*Degree*
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+*Certificate in Technical Writing*
 
 
 
