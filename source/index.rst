@@ -1,4 +1,5 @@
-Sample Resume with Sphinx
+Diane Arsenault
+Help Desk Technician III
 ###############################
 
 
@@ -6,8 +7,6 @@ Sample Resume with Sphinx
          :name: my picture
          :width: 30%
         
-**Diane Arsenault**
-**Help Desk Technician III**
 
 
 
@@ -18,7 +17,7 @@ Sample Resume with Sphinx
 
    
    Profile:
-   --------
+  
    
    Experience:
    **2015-Present:Federal Contractor providing technical support for the Department of Commerce/National Marine     Fisheries Service for Lynker Technologies**
