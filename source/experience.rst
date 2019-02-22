@@ -8,16 +8,24 @@ Help Desk Specialist III
 ************************
 
 *2015-Present:Federal Contractor providing technical support for the Department of Commerce/National Marine     Fisheries Service for Lynker Technologies*
-   ::
+  
    | Provide daily technical support for 250+ federal end users via phone, iSupport ticketing system, desk-side visits and remote assistance.
+   
    | Assist fishing community with installing and using an in-house app (NOAA eVTR) to electronically delivery catch report.
+   
    | Analyze problems, gathered pertinent data, and provide solutions using technical knowledge of various operating systems, Google Apps for governments, Microsoft Office, and Adobe applications.
+   
    | Install operating systems, software, antivirus, patches, and peripherals. Encrypt computers with McAfee Endpoint Encryption.  Apply images with Clonezilla.
-   | Manage facility CISCO ip phone and voicemail systems using Cisco Call Manager and Unity Voice systems
+   
+   | Manage facility CISCO ip phone and voicemail systems using Cisco Call Manager and Unity Voice systems.
+   
    | Intake multimedia events using Google Calendar, and WebEx scheduling.
+   
    | Provide customer service, equipment and webinar set.
+   
    | Function as a liaison between end users and data system architects and administrators.
-   | Triaged database problems for NMFS personnel, Joint law enforcement agents and fishing industry constituents. ::
+   
+   | Triaged database problems for NMFS personnel, Joint law enforcement agents and fishing industry constituents. 
 
 
 Help Desk Specialist III 
