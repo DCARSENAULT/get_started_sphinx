@@ -2,7 +2,7 @@ Sample Resume with Sphinx
 ###############################
 
 
-.. image:: images/Circuit Board.jpg
+.. image:: images/CircuitBoard.jpg
          :name: my picture
          :width: 30%
         
