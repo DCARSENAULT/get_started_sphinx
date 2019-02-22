@@ -21,10 +21,17 @@ Help Desk Technician III
    Profile:
   
    
+   
+   
+   
+   
    Experience:
    
    
-   **2015-Present:Federal Contractor providing technical support for the Department of Commerce/National Marine     Fisheries Service for Lynker Technologies**
+  
+  
+  
+  **2015-Present:Federal Contractor providing technical support for the Department of Commerce/National Marine     Fisheries Service for Lynker Technologies**
   
 **2013-2015:Technical Support for Ipswich Public Schools in Ipswich, MA** 
         
