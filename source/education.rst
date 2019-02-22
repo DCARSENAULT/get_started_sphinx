@@ -16,7 +16,7 @@ Salem State University
 Middlesex Community College
 ***************************
 
-*Certificate in Technical Writing*
+*Certificate in Technical Writing* currently enrolled.
 
 
 
