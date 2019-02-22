@@ -27,7 +27,7 @@ Help Desk Specialist III
    
    | Maintain equipment inventory, actually record asset details in Google Spreadsheets. 
    
-   | Generate Asset Hand receipts for yearly inventory, research asset history using Sunflower inventory system.
+   | Generate Asset Hand receipts for yearly inventory and research asset history using Sunflower inventory system.
    
 
 Technical Specialist 
