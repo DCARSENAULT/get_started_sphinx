@@ -19,13 +19,8 @@ Help Desk Technician III
 
    
    Profile:
-  
-   
-   
-   
-   
-   
    Experience:
+   Education:
    
    
   
@@ -41,8 +36,7 @@ Help Desk Technician III
   
 **1986 - 1991 Assistant Manager, Northeastern University, Faculty Center**
    
-   
-   Education
+
    -BA University of Massachusetts, Amherst
    -Information Technology Certificate Salem State University, Salem MA
 
